@@ -1,0 +1,29 @@
+{
+  "entities": [
+    {
+      "data": {
+        "attributes": {
+          "itemnumber": {
+            "values": [
+              {
+                "value": "980353376"
+              }
+            ]
+          },
+          "signing1desc": {
+            "values": [
+              {
+                "value": "LUX THROW MARBLE"
+              }
+            ]
+          }
+        }
+      },
+      "id": "4d7d9784-f5fc-4283-9b96-ffcd01dd5c5a",
+      "type": "item",
+      "properties": {
+        "modifiedDate": "2021-08-10T08:24:02.589-0500"
+      }
+    }
+  ]
+}
